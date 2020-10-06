@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.codersarmy.com</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+ </head>
+<body>
+<header>
+<div class="main">
+<div class="logo">
+<img src="download.png">
+</div>
+<ul>
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Gallery</a></li>
+<li><a href="#">Login</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</div>
+<div class="title">
+<h1>Learn Web Devlopment</h1>
+</div>
+<div class="button">
+<a href="#" class="btn">Free learning</a>
+<a href="#" class="btn">Watch Video</a>
+
+</div>
+ <div class="media">
+<iframe width="220" height="145" src ="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+</div>
+</header>
+</body>
+</html>
+
